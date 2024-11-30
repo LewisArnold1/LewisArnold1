@@ -1,6 +1,6 @@
 # 🔭 Lewis Arnold
 
-I’m an engineering student and developer with a focus on practical projects, including a machine learning-based eye-tracking app for monitoring productivity and eye health, automated data analysis tools for Olympic engineering, and computational fluid dynamics simulations to optimise performance.
+I’m an engineering student with a focus on practical projects, including a machine learning-based eye-tracking app for monitoring productivity and eye health, automated data analysis tools for Olympic engineering, and computational fluid dynamics simulations to optimise performance.
 
 ---
 
